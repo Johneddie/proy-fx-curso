@@ -1,3 +1,62 @@
+Core del negocio es el flujo
+
+Digital Business Automation Portfolio
+
+Advance case management + BPM = flujo
+
+casos / documentos
+
+ECM
+===
+ciclo de vida del documento
+taxonomia
+otras capacidades
+tres parrafos
+capacidades de visualizacion de parrafos
+
+Decisiones de negocio
+=====================
+docker decisions
+
+regla
+decisions
+operaciones
+
+
+rpa
+
+seleniums
+odm 
+drolls
+
+gobiernos de servicios
+definir procesos licencia gratis
+
+
+
+
+C:\2019 BAW-BPMN-PoT
+
+https://www.ibm.com/support/knowledgecenter/en/SS8JB4/com.ibm.wbpm.workflow.main.doc/kc-homepage-workflow.html
+https://developer.ibm.com/bpm/
+https://ibm-dte.mybluemix.net/
+
+aris 
+
+arquitectura empresarial
+
+sellfort
+sap gastos
+
+issis
+
+
+32
+
+
+
+
+
 gramo de arroz mes
 gametos
 cigoto
@@ -32,7 +91,7 @@ clandestino
 ligadura de trompa reversible
 100 000 adoptar
 transitar 9 meses
-san jose - convencion lato der niño
+san jose - convencion lato der niÃ±o
 concepcion - mayor
 piramide juridica
 
@@ -40,10 +99,10 @@ embrion no tiene muerte celulas nerviosas
 
 muerte cerebral
 muerte cardiaca
-células vivas
+cÃ©lulas vivas
 sexo 
 pastilla del dia siguiente
-pueblo está legislando
+pueblo estÃ¡ legislando
 
 
 
@@ -53,7 +112,7 @@ eeuu
 650mil
 1mil muertes
 
-españa
+espaÃ±a
 187mil abortos
 
 aborto legal 
@@ -61,9 +120,9 @@ aborto seguro
 
 
 pobreza ocho hermanos
-niña violentada
+niÃ±a violentada
 sanidad publica
-sídrome de down
+sÃ­drome de down
 pildora del dia siguiente
 
 
@@ -71,12 +130,12 @@ pildora del dia siguiente
 2. aborto sin limite hasta el noveno mes
 3. objecion de conciencia individual dividida
 4. objecion de conciencia institucional
-5. aborto de niñas entre 13 16 sin consentimiento
+5. aborto de niÃ±as entre 13 16 sin consentimiento
 
 mentira
 
 
-500 000 abortos por año Argentina
+500 000 abortos por aÃ±o Argentina
 171 478 mujeres mueren por avorto
 
 corazon 
@@ -140,8 +199,8 @@ ARABIA SAUDITA MANEJAR
 
 
 1967 eeuu 
-1986 españa
-1969 gran bretaña
+1986 espaÃ±a
+1969 gran bretaÃ±a
 2012 Uruguay legalizado mortalidad materna ha incrementado
 Chile baja mortalidad materna
 EEUU aborto legal
@@ -150,7 +209,7 @@ EEUU aborto legal
 0.01% causa 
 
 
-10 A 13 AÑOS
+10 A 13 AÃ‘OS
 15% adolescentes
 70% no quieren ser madres
 
